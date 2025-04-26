@@ -7,7 +7,7 @@ Thumbs.db
 .vscode/
 *.sublime-project
 *.sublime-workspace
-.historygit
+.history
 
 # Logs
 logs
