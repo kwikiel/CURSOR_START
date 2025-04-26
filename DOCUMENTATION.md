@@ -1,7 +1,5 @@
 Write here the prompt 
 
-Martyna
-
 
 ###  Kacper 
 # PEDAC
@@ -28,3 +26,4 @@ Input is the user prompt and the output is the image
 
 
 ### 
+
